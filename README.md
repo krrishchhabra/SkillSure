@@ -3,3 +3,5 @@ SkillSure is a web application working both on desktop and mobile where by enter
 
 We also plan this as an Android Application, with more advanced features.
 We also plan to add the section of employment opportunities here. Any more ideas/suggestions will be welcome.
+
+Powered By Scholastic SchoolOS
