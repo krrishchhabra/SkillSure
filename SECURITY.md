@@ -6,6 +6,6 @@ SkillSure is in currently available in a Prototype form and has no security upda
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, mail us at scholasticschoolos@gomail.com with a special Subject "SkillSure Vulnersbility".
+To report a vulnerability, mail us at scholasticschoolos@gmail.com with a special Subject "SkillSure Vulnersbility".
 
 You will receive an update regarding the reported vulnerability on the email address with which you reported the same in 6-7 Business Days.
