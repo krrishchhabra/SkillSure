@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-SkillSure is in currently available in a Prottype form and has no security updates. But being the actual team to develop it we promise that there is nothing wrong here.
+SkillSure is in currently available in a Prototype form and has no security updates. But being the actual team to develop it we promise that there is nothing wrong here.
 
 ## Reporting a Vulnerability
 
